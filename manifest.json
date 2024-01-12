@@ -1,0 +1,12 @@
+{
+  "name": "Haxe11s_Mostly_QoL_Testing_Modpack",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/a1russell/lethal-company-mod--mostly-qol-testing",
+  "description": "",
+  "dependencies": [
+    "haxe11-Haxe11s_Clientside_Mostly_QoL_Modpack-0.1.0",
+    "haxe11-Haxe11s_Clientside_Mostly_QoL_Testing_Only_Modpack-0.1.0",
+    "haxe11-Haxe11s_Synced_Install_Modpack-0.1.0",
+    "haxe11-Haxe11s_Synced_Install_Testing_Only_Modpack-0.1.0"
+  ]
+}
